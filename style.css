@@ -1,0 +1,175 @@
+body {
+	font: sans-serif;
+}
+
+header {
+	font-size: 24px;
+	font-weight: 900;
+	color: white;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 550;
+	position: absolute;
+	top: 80px;
+	left: 30%;
+	color: white;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.container {
+	width: 80%;
+	margin: 0px auto;
+	border: 1px solid darkgrey;
+}
+
+.first, .third, .fourth, .fifth {
+	text-align: center
+}
+
+.CTA1 {
+	background-color: #f9e42e;
+	border-radius: 5px;
+	font-weight: 900;
+	font-size: 14px;
+	position: absolute;
+	bottom: 120px;
+	left: 40%;
+	padding: 10px 40px 10px 40px;
+	text-decoration: none;
+}
+
+.first {
+	height: 300px;
+	position: relative;
+}
+
+#seascape {
+	height: 300px;
+	margin: 0px auto;
+	width: 100%;
+	position: relative;
+}
+
+.second {
+	background-color: #f0efef;
+	color: #121212;
+	height: 300px;
+	text-indent: 20px;
+}
+
+.benefits {
+	padding: 30px;
+	color: #121212;
+}
+
+.benefittitle {
+	font-weight: 550;
+	font-size: 20px
+}
+
+p .benefits {
+	font-size: 13px;
+	font-weight: 100;
+}
+
+li {
+	list-style-type: disc;
+	font-size: 13px;
+	font-weight: lighter;
+	left: 40px;
+}
+
+.third {
+	height: 180px;
+	color: #606161;
+	position: relative;
+}
+
+#greybackground {
+	height: 180px;
+	margin: 0px auto;
+	width: 100%;
+	position: 100%;
+}
+
+.fourth {
+	height: 50px;
+	background-color: #f9e42e;
+	position: relative;
+}
+
+.CTA2 {
+	color: white;
+	background-color: #121212;
+	border-radius: 5px;
+	font-weight: bolder;
+	font-size: 14px;
+	position: absolute;
+	bottom: 8px;
+	left: 38%;
+	padding: 10px 40px 10px 40px;
+	text-decoration: none;
+}
+
+.fifth {
+	height: 180px;
+	background-color: #33334d;
+}
+
+.quote {
+	color: white;
+	font-style: italic;
+	font-size: 18px;
+	font-weight: 100;
+	position: absolute;
+	top: 30px;
+	left: 150px;
+	right: 150px;
+	text-align: justify center;
+}
+
+.Amanda {
+	color: white;
+	font-size: 18px;
+	font-weight: 600;
+	position: absolute;
+}
+
+.relaxrfooter {
+	color: #f9e42e;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.facebook {
+	padding: 12px;
+	height: 18px;
+	width: 10px;
+}
+
+.twitter {
+	padding: 12px;
+	height: 18px;
+	width: 20px;
+}
+
+.copyrightfoot {
+	color: white;
+	padding: 30px;
+}
+
+.clearfix:after {
+content: '';
+display: block;
+clear: both;
+}
